@@ -1,23 +1,11 @@
-<!--
-<div align="right">
-  
-[![FOSSA Status](https://app.fossa.com/api/projects/custom%2B49267%2Fgithub.com%2Faetherarchio%2FAetherarchio.svg?type=shield&issueType=license)](https://app.fossa.com/projects/custom%2B49267%2Fgithub.com%2Faetherarchio%2FAetherarchio?ref=badge_shield&issueType=license) [![FOSSA Status](https://app.fossa.com/api/projects/custom%2B49267%2Fgithub.com%2Faetherarchio%2FAetherarchio.svg?type=shield&issueType=security)](https://app.fossa.com/projects/custom%2B49267%2Fgithub.com%2Faetherarchio%2FAetherarchio?ref=badge_shield&issueType=security)
-
-</div>
-
-<br>
-
-<br>
--->
+<!-- Attribution-NonCommercial-NoDerivatives 4.0 International -->
 
 <div align="center">
+<a href="https://arch.datasets.fyi">
+<img src="resources/aetherarchio-flat-banner-rndd-brdrs.png" alt="aetherarchio-flat-banner">
+</a>
 
-![aetherarchio-flat-banner-mono-2](resources/aetherarchio-flat-banner-mono-2.png)
-
-</div>
-
-<div align="center">
-
-![aetherarchio-text](resources/aetherarchio-text-wide.png)
-
+<a href="https://arch.datasets.fyi">
+<img src="resources/aetherarchio-text-wide.png" alt="aetherarchio-text">
+</a>
 </div>
